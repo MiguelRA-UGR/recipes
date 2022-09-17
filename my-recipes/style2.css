@@ -1,0 +1,33 @@
+.icon{
+    width: 40px;
+    height: 25px;
+}
+
+.text {
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-size: 20 px;
+}
+
+.header {
+    color: navy;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, serif;
+    font-style: normal;
+
+}
+
+.title{
+    background-color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:400px;
+}
+
+html{
+    background-color: green;
+}
+
+.photo{
+    width: auto;
+    height: 300px;
+}
