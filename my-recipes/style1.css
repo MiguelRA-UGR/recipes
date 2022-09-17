@@ -1,0 +1,27 @@
+html {
+    background-color: rgb(173, 49, 33);
+  }
+
+.text {
+    color: gold;
+    font-family: Georgia, 'ca', Times, serif;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 15 px;
+}
+
+.bigger text {
+    color: black;
+    font-style: normal;
+    font-size: 25 px;
+}
+
+.icon{
+    width: 22px;
+    height: 15px;
+}
+
+.photo{
+    width: 200;
+    height: 200;
+}
